@@ -7,5 +7,6 @@ All programs are user-input & commented with explanation\
 -[BlueJ](https://www.bluej.org/)\
 *FILES*\
 **Fibonnaci** : Printing the fibonnaci series based on the input length given by the user\
-**Prime** : Checking if the entered number is prime or not
+**Prime** : Checking if the entered number is prime or not\
+**Factorial** : To calculate the factorial of a number
 
