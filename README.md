@@ -9,4 +9,5 @@ All programs are user-input driven & commented with explanation\
 **Fibonnaci** : Printing the fibonnaci series based on the input length given by the user\
 **Prime** : Checking if the entered number is prime or not\
 **Factorial** : To calculate the factorial of a number\
+**ID**: Displays details based on the student ID
 
