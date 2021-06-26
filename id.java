@@ -9,7 +9,7 @@ public class id
         // the bracket numbers refer to the number of characters each detail takes
         String m= inp.nextLine();
         int length = m.length();
-      
+      //substring method is used to extract a substring from a string where the index starts from 0 , first number is inclusive, second number is not inclusive
          System.out.println("the year of entry is " + m.substring(0,4));
            System.out.println("the stream is " + m.substring(4,6));
             System.out.println("you have taken " + m.substring(6,8));
