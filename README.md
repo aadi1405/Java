@@ -10,5 +10,6 @@ All programs are user-input driven & commented with explanation\
 **Prime** : Checking if the entered number is prime or not\
 **Factorial** : To calculate the factorial of a number\
 **ID**: Displays details based on the student ID\
-**Stringconcat**: To concat strings using two different methods
+**Stringconcat**: To concat strings using two different methods\
+**calculator**: Performs simple arithmetic operations on 2 numbers
 
