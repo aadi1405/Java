@@ -11,5 +11,6 @@ All programs are user-input driven & commented with explanation\
 **Factorial** : To calculate the factorial of a number\
 **ID**: Displays details based on the student ID\
 **Stringconcat**: To concat strings using two different methods\
-**calculator**: Performs simple arithmetic operations on 2 numbers
+**calculator**: Performs simple arithmetic operations on 2 numbers\
+**pattern1**: Printing the * right angle triangle pattern
 
