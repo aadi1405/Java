@@ -12,5 +12,6 @@ All programs are user-input driven & commented with explanation\
 **ID**: Displays details based on the student ID\
 **Stringconcat**: To concat strings using two different methods\
 **calculator**: Performs simple arithmetic operations on 2 numbers\
-**pattern1**: Printing the * right angle triangle pattern
+**pattern1**: Printing the * right angle triangle pattern\
+**evenodd**: Determines if the entered numbers are even or odd (Shows basic if else operation) 
 
