@@ -13,5 +13,6 @@ All programs are user-input driven & commented with explanation\
 **Stringconcat**: To concat strings using two different methods\
 **calculator**: Performs simple arithmetic operations on 2 numbers\
 **pattern1**: Printing the * right angle triangle pattern\
-**evenodd**: Determines if the entered numbers are even or odd (Shows basic if else operation) 
+**evenodd**: Determines if the entered numbers are even or odd (Shows basic if else operation) \
+**Linear search**: To perform linear search on an array based on the input array and key
 
