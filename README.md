@@ -7,6 +7,7 @@ All programs are user-input driven & commented with explanation\
 -[BlueJ](https://www.bluej.org/)\
 *FILES*\
 **Calculator**: Performs simple arithmetic operations on 2 numbers\
+**Countcharacters**: To count the number of characters in a string\
 **Evenodd**: Determines if the entered numbers are even or odd (Shows basic if else operation) \
 **Factorial** : To calculate the factorial of a number\
 **Fibonnaci** : Printing the fibonnaci series based on the input length given by the user\
