@@ -13,6 +13,7 @@ All programs are user-input driven & commented with explanation\
 **Fibonnaci** : Printing the fibonnaci series based on the input length given by the user\
 **ID**: Displays details based on the student ID\
 **Linear search**: To perform linear search on an array based on the input array and key\
+**Loops**: Shows the execution of three different loops - for loop, while loop, do while loop\
 **Pattern1**: Printing the * right angle triangle pattern\
 **Prime** : Checking if the entered number is prime or not\
 **Stringconcat**: To concat strings using two different methods
