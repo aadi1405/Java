@@ -16,6 +16,7 @@ All programs are user-input driven & commented with explanation\
 **Loops**: Shows the execution of three different loops - for loop, while loop, do while loop\
 **Pattern1**: Printing the * right angle triangle pattern\
 **Prime** : Checking if the entered number is prime or not\
-**Stringconcat**: To concat strings using two different methods
+**Stringconcat**: To concat strings using two different methods\
+**Sum of Numbers**: To display the sum of all the natural numbers within the input range
 
 
