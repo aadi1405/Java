@@ -19,6 +19,7 @@ All programs are user-input driven & commented with explanation\
 **Prime** : Checking if the entered number is prime or not\
 **ProductofNumbers**: To display the product of all the natural numbers within the input range\
 **Stringconcat**: To concat strings using two different methods\
-**Sum of Numbers**: To display the sum of all the natural numbers within the input range
+**Sum of Numbers**: To display the sum of all the natural numbers within the input range\
+**Swapnumbers**: To swap two input numbers using a temporary variable
 
 
