@@ -16,6 +16,7 @@ All programs are user-input driven & commented with explanation\
 **Linear search**: To perform linear search on an array based on the input array and key\
 **Loops**: Shows the execution of three different loops - for loop, while loop, do while loop\
 **Pattern1**: Printing the * right angle triangle pattern\
+**Positiveornegative**: To check if the input number is Positive or Negative\
 **Prime** : Checking if the entered number is prime or not\
 **ProductofNumbers**: To display the product of all the natural numbers within the input range\
 **Stringconcat**: To concat strings using two different methods\
