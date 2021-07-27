@@ -7,6 +7,7 @@ All programs are user-input driven & commented with explanation\
 -[BlueJ](https://www.bluej.org/)\
 *FILES*\
 **Calculator**: Performs simple arithmetic operations on 2 numbers\
+**Char Count**: Counts the number of times an input character occurs in an input string\
 **Countcharacters**: To count the number of characters in a string\
 **Evenodd**: Determines if the entered numbers are even or odd (Shows basic if else operation) \
 **Factorial** : To calculate the factorial of a number\
