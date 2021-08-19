@@ -1,5 +1,5 @@
 # Java
-30 days of Java\
+Basic Java programs to try when you're getting started with Java!\
 All programs are user-input driven & commented with explanation\
 *JAVA SETUP*\
 -[Java Installation](https://java.com/en/download/help/download_options.html#windows)\
