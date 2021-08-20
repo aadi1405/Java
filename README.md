@@ -1,10 +1,10 @@
 # Java
 Basic Java programs to try when you're getting started with Java!\
-All programs are user-input driven & commented with explanation\
+All programs are user-input driven & commented with explanation
 ## *JAVA SETUP*
 -[Java Installation](https://java.com/en/download/help/download_options.html#windows)\
 -[Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)\
--[BlueJ](https://www.bluej.org/)\
+-[BlueJ](https://www.bluej.org/)
 ## *FILES*
 **Calculator**: Performs simple arithmetic operations on 2 numbers\
 **Char Count**: Counts the number of times an input character occurs in an input string\
