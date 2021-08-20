@@ -1,5 +1,5 @@
 # Java
-Basic Java programs to try when you're getting started with Java!\
+Basic Java programs to try when you're getting started with Java! Helping others Learn Java and learning myself \
 All programs are user-input driven & commented with explanation
 ## *JAVA SETUP*
 -[Java Installation](https://java.com/en/download/help/download_options.html#windows)\
@@ -23,7 +23,7 @@ All programs are user-input driven & commented with explanation
 **Stringconcat**: To concat strings using two different methods\
 **Sum of Numbers**: To display the sum of all the natural numbers within the input range\
 **Swapnumbers**: To swap two input numbers using a temporary variable
-## Resources to learn Java:
+## *Resources to learn Java:*
 -[Geeks for Geeks](https://www.geeksforgeeks.org/java/)\
 -[Codeacademy Course](https://www.codecademy.com/learn/learn-java)
 
